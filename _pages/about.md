@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am finishing up my PhD in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at [Emory University](http://www.emory.edu/home/index.html).
-If you're looking for my Github repository, click [here](https://github.com/nancymurray).
+If you're looking for my Github repository, click [here](https://github.com/nancymurray). If you're interested in contacting me directly, please email me at nancy dot murray at emory dot edu.
 
 Welcome.
 ======
