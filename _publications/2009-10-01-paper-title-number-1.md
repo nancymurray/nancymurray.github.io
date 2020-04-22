@@ -1,7 +1,7 @@
 ---
 title: "Satellite‐Based Daily PM$_{2.5}$ Estimates During Fire Seasons in Colorado."
 collection: publications
-permalink: /publication/paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' '
 date: 2009-10-01
 venue: 'Journal of Geophysical Research: Atmospheres'
